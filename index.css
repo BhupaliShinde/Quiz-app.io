@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #aeaedb;
+}
+.app h1{
+    color: rgb(3, 3, 3);
+    padding-top: 4%;
+    text-align: center;
+    justify-content: center; 
+    letter-spacing: 2rem;
+    
+}
+.card-body{
+    margin-left: 20%;
+    padding:5%;
+}
+.card-body h4{
+    color: tomato;
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+    
+}
+.card-body p{
+    color: rgb(3, 3, 3);
+    font-weight: 300;
+}
+.card-body span{
+    color: darkblue;
+}
+
+  
